@@ -1,0 +1,7 @@
+# Large data dependency from dbSNP
+/data/snps_by_chr_hg19/
+
+# Irrelevant files
+/.idea/
+/SNPLookUp/.ipynb_checkpoints/
+/SNPLookUp/__pycache__/
