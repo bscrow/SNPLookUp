@@ -1,8 +1,7 @@
+"""Exceptions specific to this program"""
+
+
 class ParseException(Exception):
-    pass
-
-
-class UnderDevelopmentException(Exception):
     pass
 
 
